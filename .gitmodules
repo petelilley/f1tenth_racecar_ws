@@ -1,0 +1,36 @@
+[submodule "src/f1tenth_multiplexer"]
+	path = src/f1tenth_multiplexer
+	url = https://github.com/petelilley/f1tenth_multiplexer.git
+	branch = main
+[submodule "src/f1tenth_joystick_control"]
+	path = src/f1tenth_joystick_control
+	url = https://github.com/petelilley/f1tenth_joystick_control.git
+	branch = main
+[submodule "src/f1tenth_gap_follow"]
+	path = src/f1tenth_gap_follow
+	url = https://github.com/petelilley/f1tenth_gap_follow.git
+	branch = main
+[submodule "src/vesc"]
+	path = src/vesc
+	url = https://github.com/f1tenth/vesc.git
+	branch = ros2
+[submodule "src/transport_drivers"]
+	path = src/transport_drivers
+	url = https://github.com/ros-drivers/transport_drivers.git
+	branch = humble
+[submodule "src/udp_msgs"]
+	path = src/udp_msgs
+	url = https://github.com/flynneva/udp_msgs
+	branch = main
+[submodule "src/urg_node2"]
+	path = src/urg_node2
+	url = https://github.com/Hokuyo-aut/urg_node2
+	branch = main
+[submodule "src/laser_proc"]
+	path = src/laser_proc
+	url = https://github.com/ros-perception/laser_proc
+	branch = ros2-devel
+[submodule "src/joystick_drivers"]
+	path = src/joystick_drivers
+	url = https://github.com/ros-drivers/joystick_drivers
+	branch = ros2
